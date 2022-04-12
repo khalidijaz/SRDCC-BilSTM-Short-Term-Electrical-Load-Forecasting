@@ -1,6 +1,6 @@
 # SRDCC-BilSTM-Short-Term-Electrical-Load-Forecasting
 
-Download the folder from Github repository and extract it.
+Download the ZIP folder from Github repository and extract it.
 # For Jupter Notebook Files:
 1. Place the extracted folder in the directory of Jupyter notebook.
 2. After accessing the Jupyter interface, click on the extracted folder
