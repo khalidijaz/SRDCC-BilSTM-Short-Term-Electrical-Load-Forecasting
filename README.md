@@ -1,4 +1,7 @@
 # SRDCC-BilSTM-Short-Term-Electrical-Load-Forecasting
+This project presents a novel Short Receptive Field based Dilated Causal
+Convolutional Network Integrated with Bidirectional LSTM (SRDCC-BiLSTM) for Short-term electrical load forecasting. The presented model is compared with various statistical,machine learning and deep learning methods.
+This repository contains the codes related to this project
 
 Download the ZIP folder from Github repository and extract it.
 # For Jupter Notebook Files:
