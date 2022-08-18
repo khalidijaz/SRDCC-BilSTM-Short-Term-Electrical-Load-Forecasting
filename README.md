@@ -20,4 +20,21 @@ Download the ZIP folder from Github repository and extract it.
 4. RUN the program
 5. Accuracy / Error results of that algorithm will be displayed
 
+# Citation
+If you find the codes useful in your research, please consider citing:
+
+@article{JAVED2022117689,
+title = {A novel short receptive field based dilated causal convolutional network integrated with Bidirectional LSTM for short-term load forecasting},
+journal = {Expert Systems with Applications},
+volume = {205},
+pages = {117689},
+year = {2022},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2022.117689},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417422009848},
+author = {Umar Javed and Khalid Ijaz and Muhammad Jawad and Ikramullah Khosa and Ejaz {Ahmad Ansari} and Khurram {Shabih Zaidi} and Muhammad {Nadeem Rafiq} and Noman Shabbir},
+keywords = {Data analysis, Load forecasting, Learning (artificial intelligence), Machine learning, Power engineering computing, Time series analysis},
+abstract = {The Short-Term Load Forecasting (STLF) is a pre-eminent task for reliable power generation and electrical load dispatching in the power system. Numerous machine-learning and deep-learning forecasting algorithms have been presented in literature for performing an accurate electrical load forecast. However, the complicated structure of machine-learning and deep-learning multi-layer and with increased filter size architectures provoke the overfitting issue, which degrades the performance of STLF engines in the presence of highly diversified weather and temporal variations. This paper proposes a novel two-stage Encoder-Decoder (ED) network with improved generalization capability and forecasting accuracy. The proposed architecture is based on Short Receptive field based Dilated Causal Convolutional (SRDCC) network in the first stage and Bi-directional Long Short-Term Memory (BiLSTM) network in the second stage. Using real valued data, the proposed ED architecture is quantitatively and qualitatively analyzed in comparison with state-of-the-art machine-learning and hybrid deep-learning STLF models. The evaluation matrix used for the comparison consists of six evaluation parameters. The extensive experimentation for multi-step ahead STLF validates the efficiency of the proposed technique in terms of accuracy in comparison with other employed models. The CNN-LSTM revealed to have best performance among all other implemented parametric and non-parametric forecasting models; however, the proposed ED architecture proves to be 35% more accurate compared to CNN-LSTM and have the tendency to capture the local trends in an electrical load pattern more accurately. Moreover, a detailed comparative analysis on the computational complexity of the proposed ED architecture is also conducted to show the real implementation prospect.}
+}
+
 
